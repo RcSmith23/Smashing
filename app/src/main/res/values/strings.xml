@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Smashing</string>
+    <string name="picture">Picture</string>
+    <string name="description_info">Info</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="intro_message">http://vignette1.wikia.nocookie.net/theofficalsovietronalds/images/b/bd/Smashing.jpg</string>
+</resources>
